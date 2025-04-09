@@ -1,3 +1,5 @@
+##Úvod
+
 Aplikace pro jednoduchou správu zápůjček předmětů vytvořená v jazyce C# pomocí WinForms a SQLite.
 Jendá se pouze o školní projekt.
 
